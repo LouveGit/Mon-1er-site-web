@@ -7,16 +7,19 @@ nav {
     padding: 11px; 
 
     display:flex;
-    justify-content: space-evenly; 
-
+    /* justify-content: center; */
+    gap: 10px;
 }
 
 nav a {
     color: crimson;
+    font-family: 'Lucida Sans';
     text-decoration: none;
 }
 
-
+ul {
+    list-style-type: none;
+}
 
 h1 {
     color: darkblue;
