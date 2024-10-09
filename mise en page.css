@@ -19,6 +19,12 @@ nav a {
     text-decoration: none;
 }
 
+nav a:hover{
+    color: chartreuse;
+    font-size: larger;
+}
+
+
 ul {
     margin: 0px;
     padding: 0px;
