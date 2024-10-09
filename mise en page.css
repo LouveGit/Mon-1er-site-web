@@ -4,11 +4,7 @@ nav {
     border-width: 3px;
     border-style: solid; */
     border: 3px solid black;
-    padding: 11px; 
-
-    display:flex;
-    /* justify-content: center; */
-    gap: 10px;
+    padding: 16px; 
 }
 
 nav a {
@@ -18,7 +14,12 @@ nav a {
 }
 
 ul {
+    margin: 0px;
+    padding: 0px;
     list-style-type: none;
+    display:flex;
+    /* justify-content: center; */
+    gap: 8px;
 }
 
 h1 {
