@@ -1,9 +1,22 @@
 
+/* https://coolors.co/0d0221-0f084b-26408b-a6cfd5-c2e7d9 
+
+Dark Purple : --#0D0221-- > #190b6d
+Federal Blue : #0F084B
+Marian Blue : #26408B
+Light Blue : --#A6CFD5-- > #daedf0
+Mint Green : #C2E7D9
+*/
+
+body {
+    background-color: #daedf0;
+
+}
+
 
 header {
     height: 22vh;
 }
-
 
 nav {
     /* border-color: black;
@@ -14,7 +27,7 @@ nav {
 }
 
 nav a {
-    color: crimson;
+    color: crimson; 
     font-family: 'Lucida Sans';
     text-decoration: none;
 }
@@ -23,7 +36,6 @@ nav a:hover{
     color: chartreuse;
     font-size: larger;
 }
-
 
 ul {
     margin: 0px;
@@ -35,14 +47,14 @@ ul {
 }
 
 h1 {
-    color: darkblue;
+    color: #0F084B ;
     /*background-color: darkgray; */
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 strong {
-    color: darkblue;
+    color: #0F084B;
     font-family: 'Lucida Sans';
 }
 
@@ -65,4 +77,14 @@ p {
 
 .rouge {
     color: crimson;
+}
+
+.picture-color {
+    background-color: #0F084B;
+
+}
+
+.pied-de-page {
+    background-color: #0F084B;
+
 }
